@@ -1,2 +1,2 @@
-Python Program to scrape a jobs website and filter out user input queries and return only latest job offers.
+Python Program to scrape timesjobs website and filter out user input queries and return only latest job offers.
 link to website: https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=python&txtLocation=
