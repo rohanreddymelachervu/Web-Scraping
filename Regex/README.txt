@@ -1,2 +1,1 @@
-Have got the content from the website using requests module. Instead of using BeautifulSoup, I found all the links in the page without using BeautifulSoup and then formed a table of the links
-from the main page to the first link in the main page.
+Have got the content from the website using requests module. Instead of using BeautifulSoup, I found all the links in the page using RegEx and then formed a table of the links from the main page to the first link in the main page.
